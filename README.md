@@ -4,7 +4,7 @@
 
 ## Cel
 
-`p2p.60-24.oneclik.evo` jest bazą projektu **P2P 60-24**.
+`p2p.60-24.oneclik.evo` jest bazą projektu .
 
 **Zasada:** najpierw rozumiemy system i definiujemy ontologię, potem protokół, a dopiero później rozwijamy kod.
 
